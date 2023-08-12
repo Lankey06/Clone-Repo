@@ -1,5 +1,0 @@
-{{#user}
-Name: Lankey Laxmi Sri Suraj
-Skills: HTML, CSS, Javascript,Tailwind CSS
-Email: 21pa1a1263@vishnu.edu.in
-{{/user}}
